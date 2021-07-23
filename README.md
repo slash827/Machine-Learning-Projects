@@ -4,3 +4,5 @@ I'm a 3rd year Computer Science student from Israel.
 
 In my first project I implemented a ML model using logistic regression in python.
 I created two models one to classify iris species and another to classify wine types.
+</br>
+I also created models that deal with Malware Detection using data extracted from PE Headers of suspicious files.

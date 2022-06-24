@@ -1,6 +1,6 @@
 # Hello-World
 This is my first project in GitHub.
-I'm a Computer Science student from Israel.
+I'm a M.Sc student in Computer Science from Israel.
 
 In my first project I implemented a ML model using logistic regression in python.
 I created two models one to classify iris species and another to classify wine types.

@@ -1,5 +1,4 @@
 # Machine Learning
-This is my first project in GitHub.
 I'm a M.Sc student in Computer Science from Israel.
 
 In my first project I implemented a ML model using logistic regression in python.

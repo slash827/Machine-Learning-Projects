@@ -39,3 +39,4 @@ DecisionTreeImpl - creates a root node, a boolean array that stores the attribut
                            "used" in the the usedAttributes array so that it's children couldn't use it.
                            then we create this node's children based on the amount of different values that our attribute can have.
                            each children has only a subset of it's father's instances and it is called recursively.
+                           
